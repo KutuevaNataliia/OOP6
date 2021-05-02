@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP6", "OOP6\OOP6.csproj", "{42629BE5-58CA-4708-A9C5-635D0DB32117}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84A25EB0-01E7-4D4E-A4E1-C58A7B301128}"
+	ProjectSection(SolutionItems) = preProject
+		MyForm1.cs = MyForm1.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42629BE5-58CA-4708-A9C5-635D0DB32117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42629BE5-58CA-4708-A9C5-635D0DB32117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42629BE5-58CA-4708-A9C5-635D0DB32117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42629BE5-58CA-4708-A9C5-635D0DB32117}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FFF3BD2-3E0E-4565-A8E7-7529ED006B4F}
+	EndGlobalSection
+EndGlobal
